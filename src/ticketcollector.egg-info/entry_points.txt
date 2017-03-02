@@ -1,0 +1,7 @@
+
+      [paste.app_factory]
+      main = tc.main.startup:application_factory
+
+      [paste.global_paster_command]
+      shell = tc.main.debug:Shell
+      
