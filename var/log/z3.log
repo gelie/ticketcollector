@@ -1,0 +1,16 @@
+------
+2017-03-02T15:36:18 WARNING root Developer mode is enabled: this is a security risk and should NOT be enabled on production servers. Developer mode can usually be turned off by setting the `devmode` option to `off` or by removing it from the instance configuration file completely.
+------
+2017-03-02T15:36:19 INFO ZODB.blob (28057) Blob directory var/blob does not exist. Selected `bushy` layout. 
+------
+2017-03-02T15:36:19 INFO ZODB.blob (28057) Blob directory '/home/gelie/Projects/ticketcollector/var/blob/' does not exist. Created new directory.
+------
+2017-03-02T15:36:19 INFO ZODB.blob (28057) Blob temporary directory 'var/blob/tmp' does not exist. Created new directory.
+------
+2017-03-02T16:20:45 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T16:20:45 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-02T16:20:45 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T16:20:45 INFO paste.httpserver.ThreadPool All workers stopped
