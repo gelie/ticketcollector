@@ -1,2 +1,0 @@
-127.0.0.1 - - [02/Mar/2017:15:36:28 +0200] "GET / HTTP/1.1" 200 1303 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0"
-127.0.0.1 - - [02/Mar/2017:15:36:28 +0200] "GET /%2B%2Bresource%2B%2Bstatic/logo.png HTTP/1.1" 200 6581 "http://localhost:8080/++resource++static/style.css" "Mozilla/5.0 (X11; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0"
